@@ -374,7 +374,7 @@ A production implementation could add:
 - governed BI datasets and role-based access
 - historical alert tracking and incident feedback
 
-## Interview Focus
+## TECHNICAL DESIGN GUIDE
 
 The project is designed to demonstrate that I understand the difference between:
 
@@ -383,7 +383,7 @@ The project is designed to demonstrate that I understand the difference between:
 3. **GenAI:** interpreting validated findings and communicating them in business language.
 4. **Automation:** delivering the result to stakeholders without repeated manual effort.
 
-For interview preparation, see [docs/INTERVIEW_GUIDE.md](docs/INTERVIEW_GUIDE.md).
+For interview preparation, see [docs/TECHNICAL_DESIGN_GUIDE.md](docs/TECHNICAL_DESIGN_GUIDE.md).
 
 ## Author
 
